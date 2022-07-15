@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/eduardolins/eduardolins/blob/master/banner.png">
-
 
 # Eduardo Lima
 
@@ -38,4 +36,3 @@ Aprendendo aos poucos á desenvolver sites.
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/eduardolins/eduardolins/output/github-contribution-grid-snake.svg)
