@@ -1,10 +1,10 @@
-<img width="auto" src="https://github.com/alexiakattah/alexiakattah/blob/master/banner.png">
+<img width="auto" src="https://github.com/eduardolins/eduardolins/blob/master/banner.png">
 
 
 # Eduardo Lima
 
 ## Olá pessoal 👋
-Sou apaixonado por criar e desenvolver sites.
+Aprendendo aos poucos á desenvolver sites.
 <br />
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
@@ -14,8 +14,9 @@ Sou apaixonado por criar e desenvolver sites.
 <div>
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
+<img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" />
 
- 
 </div>
  
 ##
