@@ -6,6 +6,7 @@ Aprendendo aos poucos á desenvolver sites.
 <br />
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
+ <br/> 💬  &nbsp; Sobre mim: Tecnologias, Games, Cinema, Séries.
 
 ## MY SKILLS
  
@@ -34,5 +35,9 @@ Aprendendo aos poucos á desenvolver sites.
   <img src="https://profile-counter.glitch.me/eduardolins/count.svg" />  
 </p>
 
-<!-- github workflow  -->
 </div>
+<div>
+<!-- github workflow  -->
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+ </div>
