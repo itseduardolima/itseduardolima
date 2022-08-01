@@ -1,7 +1,7 @@
 
 # Eduardo Lima
 
-## Olá pessoal 🚀
+## Hello, World! 🚀
 Aprendendo aos poucos á desenvolver sites.
 <br />
 
