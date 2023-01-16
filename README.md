@@ -37,8 +37,3 @@ Aprendendo aos poucos á desenvolver sites.
 </p>
 
 </div>
-<div>
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
- </div>
