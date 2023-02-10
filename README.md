@@ -12,6 +12,8 @@ Aprendendo aos poucos á desenvolver sites.
 
 Acesse meu Portfólio:
 
+<a href="https://itseduardolima.github.io./portfolio/index.html">Acessar</a>
+
 
 ## MY SKILLS
  
