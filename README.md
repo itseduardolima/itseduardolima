@@ -27,13 +27,3 @@ Aprendendo aos poucos á desenvolver sites.
  <a href="eduardolima2417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/eduardolima07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-## Visitas no pefil - Atividade
-<div>
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/itseduardolima  
-</p>
-
-</div>
