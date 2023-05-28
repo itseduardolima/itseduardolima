@@ -5,18 +5,9 @@
 Aprendendo aos poucos á desenvolver sites.
 <br />
 
- <br/> 💻  &nbsp; Buscando colaborar com projetos em Front-end.
+ <br/> 💻  &nbsp; Iniciando minha carreira como desenvolvedor de software.
  <br/> 💬  &nbsp; Sobre mim: Tecnologias, Games, Cinema, Séries.
 
-## Portfólio
-
-Acesse meu Portfólio:
-
-<a href="https://itseduardolima.github.io./portfolio/index.html">Acessar</a>
-
-
-## MY SKILLS
- 
 <div>
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -42,7 +33,7 @@ Acesse meu Portfólio:
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/eduardolins/count.svg" />  
+  <img src="https://profile-counter.glitch.me/itseduardolima  
 </p>
 
 </div>
