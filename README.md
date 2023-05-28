@@ -17,8 +17,8 @@ Aprendendo aos poucos á desenvolver sites.
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />
-<img width="33px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 
 </div>
  
