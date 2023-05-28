@@ -9,6 +9,8 @@ Aprendendo aos poucos á desenvolver sites.
  <br/> 💬  &nbsp; Sobre mim: Tecnologias, Games, Cinema, Séries.
 
 <div>
+ 
+ ## My Skills
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
