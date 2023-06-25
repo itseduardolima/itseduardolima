@@ -1,6 +1,6 @@
 ## 👋 Hello, World!
 
-Meu nome é Eduardo Lima, um desenvolvedor de software apaixonado pela tecnologia. Atualmente trabalho como Desenvolvedor Back-end estagiário no Instituto Conecthus - Tecnologia e Biotecnologia do Amazonas .
+Meu nome é Eduardo Lima, tenho 22 anos. Sou um desenvolvedor de software apaixonado pela tecnologia. Atualmente trabalho como Desenvolvedor Back-end estagiário no Instituto Conecthus - Tecnologia e Biotecnologia do Amazonas .
 
 
 ## 🚀 Expertise
