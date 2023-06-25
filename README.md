@@ -1,38 +1,22 @@
+# 👋 Hello, World!
 
-# Eduardo Lima
-
-## Hello, World! 🚀
-Aprendendo aos poucos á desenvolver sites.
-<br />
-
- <br/> 💻  &nbsp; Iniciando minha carreira como desenvolvedor de software.
- <br/> 💬  &nbsp; Sobre mim: Tecnologias, Games, Cinema, Séries.
-
-<div>
- 
- ## My Skills 💻
-
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
-<img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" />
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" />
-<img width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-
-</div>
- 
-##
-
-<div>
- <a href="https://api.whatsapp.com/send?phone=5592991887687&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.instagram.com/itseduardolima"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="eduardolima2417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/eduardolima07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+Meu nome é Eduardo Lima, um desenvolvedor de software apaixonado pela tecnologia. Atualmente trabalho como Desenvolvedor Back-end estagiário no Instituto Conecthus - Tecnologia e Biotecnologia do Amazonas .
 
 
-<div>
- (https://github-readme-stats.vercel.app/api?itseduardolima=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+# 🚀 Expertise
+
+Não tenho um foco principal no desenvolvimento, desenvolvo tanto no front-end ou Back-end, comecei meus estudos no Fron-end na criação de aplicações Web interativos e amigáveis. Tenho amplo conhecimento de HTML, CSS, JavaScript e Typescript, e sou proficiente em estruturas e bibliotecas populares, como React e atualmente estudando o Next. </br>
+Meu desenvolvimento com Back-end começou quando recebi a missão de fazer parte da equipe de software como estagiário da Conecthus Instituto de Tecnologia e Biotecnologia, onde comecei a desenvolver no Back-end usando o Nestjs.
+
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolima07/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@itseduardolima)
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=itseduardolima&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itseduardolima&theme=neon&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=itseduardolima&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
