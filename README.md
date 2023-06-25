@@ -34,5 +34,5 @@ Aprendendo aos poucos á desenvolver sites.
 
 
 <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?itseduardolima=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api?itseduardolima=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
