@@ -6,6 +6,10 @@ Meu nome é Eduardo Lima, tenho 24 anos. Sou um desenvolvedor de software apaixo
 
 Sou desenvolvedor FullStack com sólida experiência em construção de interfaces modernas e intuitivas. focando sempre em entregar soluções que combinam desempenho e usabilidade.
 
+## 🚀 Portfolio
+
+Acesse meu portfolio e conheça mais sobre mim e meus projetos recentes: https://eduardolima.netlify.app/
+
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
