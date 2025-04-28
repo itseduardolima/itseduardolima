@@ -8,7 +8,7 @@ Sou desenvolvedor FullStack com sólida experiência em construção de interfac
 
 ## 🚀 Portfolio
 
-Acesse meu portfolio e conheça mais sobre mim e meus projetos recentes: https://eduardolima.netlify.app/
+Acesse meu portfolio e conheça mais sobre mim e meus projetos recentes: https://eduardolima.tech/
 
 ## 💻 Tech Stack
 
