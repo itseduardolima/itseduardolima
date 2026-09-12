@@ -8,7 +8,7 @@ Sou desenvolvedor FullStack com sólida experiência em construção de interfac
 
 ## 🚀 Portfolio
 
-Acesse meu portfolio e conheça mais sobre mim e meus projetos recentes: https://eduardo-lima.vercel.app/
+Acesse meu portfolio e conheça mais sobre mim e meus projetos recentes: [https://eduardo-lima.vercel.app/](https://eduardolima.tech/)
 
 ## 💻 Tech Stack
 
