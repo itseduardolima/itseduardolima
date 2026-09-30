@@ -1,6 +1,6 @@
 ## 👋 Hello, World!
 
-Meu nome é Eduardo Lima, tenho 24 anos. Sou um desenvolvedor de software apaixonado pela tecnologia.
+Meu nome é Eduardo Lima, tenho 25 anos. Sou um desenvolvedor de software apaixonado pela tecnologia.
 
 ## 🚀 Expertise
 
